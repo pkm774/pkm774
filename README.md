@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=manonymz&style=flat-square" alt="mranonymz" /><br>
+<img src="https://komarev.com/ghpvc/?username=pkm774&style=flat-square" alt="pkm774" /><br>
 
-[![Mr.AnonymZ github stats](https://github-readme-stats.vercel.app/api?username=mranonymz)](https://github.com/mranonymz)
+[![Prabhat github stats](https://github-readme-stats.vercel.app/api?username=pkm774)](https://github.com/pkm774)
