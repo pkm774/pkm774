@@ -6,8 +6,8 @@
 
 ## &#x1f4c8; Github Stats
 <a href="https://github.com/pkm774/pkm774">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkm774" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkm774&theme=radical" />
 </a>
 <a href="https://github.com/pkm774/pkm774">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkm774&show_icons=true&line_height=27&count_private=true" alt="Raiden's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkm774&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Raiden's GitHub Stats" />
 </a>
